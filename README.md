@@ -1,11 +1,4 @@
 # Pygameproject
-Got it, Usman! You want to provide **clear instructions** in your GitHub or Google Drive repository so your teacher (or anyone) can **run your Pygame game** — where your main file is named:
-
-> `code game (1).py`
-
-Here’s a professional and clear **README-style instruction** you can include in a `README.txt` or `README.md` file — or just copy-paste in your email or GitHub description:
-
----
 
 ## 🕹️ Instructions to Run the Game
 
