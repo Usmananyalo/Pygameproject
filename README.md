@@ -61,5 +61,3 @@ python "code game (1).py"
 * Press `R` to restart.
 
 ---
-
-Let me know if you'd like me to generate this as a downloadable **README.txt** file for your folder or GitHub repo — I can do that in seconds!
